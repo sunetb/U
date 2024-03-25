@@ -1,0 +1,4 @@
+No hard work on the main thread
+Add permissions in the manifest
+Don't touch Views from a background thread
+
